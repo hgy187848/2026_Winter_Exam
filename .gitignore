@@ -1,0 +1,11 @@
+build/           # CMake 构建目录
+CMakeFiles/      # CMake 生成的文件
+cmake-build-*/   # IDE 自动生成的构建目录
+CMakeCache.txt   # CMake 缓存
+CMakeScripts/    # CMake 脚本
+*.cmake          # CMake 临时文件
+cmake_install.cmake  # 安装脚本
+Makefile         # CMake 生成的 Makefile
+*.ninja          # Ninja 构建文件
+.ninja_deps      # Ninja 依赖文件
+.ninja_log       # Ninja 日志
